@@ -1,0 +1,156 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h3{
+    font-size: medium;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+    height: 552px;
+}
+
+.press-logo{
+    width:15%;
+    margin: 20px 20px 50px;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    text-align: center;
+    background-color: #ef8172;
+    padding: 3%;
+}
+p{
+    color:#8f8f8f;
+}
+.row{
+    padding:7% 15%;
+    
+}
+.icon{
+    color: #ef8172;
+    margin: 1rem;
+    position: relative;
+    left: 78px;
+}
+#testimonials{
+    text-align: center;
+    
+    background-color: #ef8172;
+        color: #fff;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+.font{
+    font-family: 'Montserrat', sans-serif;
+     font-size: 2.5rem;
+    line-height: 1.7;
+    
+}
+.pp{
+    
+    text-align: center;
+}
+.navbar{
+    padding:0 0 2.5rem;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    color: #fff;
+    font-weight: 1.2rem;
+    font-family:'Montserrat-light';
+}
+.title-img{
+    transform: rotate(30deg);
+    width: 318px;
+    top: 287px;
+    left: 64px;
+}
+.navbar-brand{
+    color: #fff;
+    font-family:'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.container-fluid{
+    padding:3% 15% 111%;
+}
+.column{
+    padding: 30px;
+}
+.mee{
+    text-align: center;
+    position: relative;
+    top: 78px;
+
+}
+.picinggr{
+text-align: center;
+}
+#features{
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+@media (max-width:1028px){
+    #title{
+        text-align: center;
+        height: 1000px;
+    }
+    .title-img{
+        position: static;
+        transform: rotate(0);
+        z-index: -1;
+    }
+
+    
+}
+#cta{
+    background-color: #ef8172;
+    text-align: center;
+    height: 400px;
+    padding: 8% 0;
+    line-height: 2;
+    color: #fff;
+}
+.shh{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    width: 600px;
+    margin: auto;
+    
+}
+.shashu{
+    margin-top: 30px;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+.NOTT{
+        margin: 20px 10px;
+        color:#ef8172 ;
+}
